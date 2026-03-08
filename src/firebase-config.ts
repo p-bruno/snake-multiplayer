@@ -6,7 +6,7 @@
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: "AIzaSyBgXyfCuL5IrAnXMKMxhEtq457_NQgGsNA",
   authDomain: "snale-dafec.firebaseapp.com",
   databaseURL: "https://snale-dafec-default-rtdb.europe-west1.firebasedatabase.app",
